@@ -1,0 +1,14 @@
+
+html, body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.font-mono {
+    font-family: 'JetBrains Mono', monospace !important;
+}
+
+.border-industrial {
+    border: 1px solid rgba(128, 128, 128, 0.22) !important;
+}
